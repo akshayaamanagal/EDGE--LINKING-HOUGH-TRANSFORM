@@ -18,6 +18,8 @@ Anaconda - Python 3.7
 ### Step5: Display the result.
 
 # Program:
+### DEVELOPED BY: Akshayaa M
+### REGISTER NO: 212222230009
 ```Python
 
 # Read image and convert it to grayscale image
